@@ -2,15 +2,15 @@
 
 Makes using the flashlight on iOS easy!
 
-# Use
-## flashOn
+# 🔨 Code Examples
+## 📸 flashOn
 Turns on the flashlight.
 ```
 Import EasyFlash
 EasyFlash.flashOn()
 ```
 
-## flashOff
+## 📷 flashOff
 Turns off the flashlight.
 ```
 Import EasyFlash
