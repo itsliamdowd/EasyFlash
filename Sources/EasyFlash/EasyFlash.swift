@@ -1,5 +1,5 @@
 /**
- *  Improved Animations
+ *  Easy Flash
  *
  *  Copyright (c) 2022 Liam Dowd. Licensed under the MIT license, as follows:
  *
